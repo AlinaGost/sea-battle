@@ -1,0 +1,15 @@
+//@import "fonts";
+@import "vendor";
+@import "vars";
+@import "settings";
+
+h1 {
+  color: blue;
+  font-size: 52px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  border: 1px solid black;
+}

@@ -1,5 +1,5 @@
 {
-  "name": "webpack_config",
+  "name": "sea_battle",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
@@ -9,7 +9,6 @@
   },
   "author": "AlinaGost",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "@babel/core": "^7.14.6",
     "@babel/preset-env": "^7.14.7",
@@ -37,6 +36,16 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "normalize.css": "^8.0.1"
-  }
+    "normalize.css": "^8.0.1",
+    "react": "^17.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlinaGost/sea-battle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlinaGost/sea-battle.git/issues"
+  },
+  "homepage": "https://github.com/AlinaGost/sea-battle.git#readme",
+  "description": ""
 }

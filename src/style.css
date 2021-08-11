@@ -1,3 +1,11 @@
-body {
-  background-color: blanchedalmond;
+.header {
+  font-size: 25px;
+  color: blue;
+  text-align: center;
+}
+
+.img {
+  margin: 20px;
+  width: 500px;
+  height: auto;
 }
